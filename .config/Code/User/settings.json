@@ -1,0 +1,44 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Atom One Dark",
+    "docker-compose.files": [
+        "docker-compose_dev-x86.yml"
+    ],
+    "go.toolsManagement.autoUpdate": true,
+    "devicetree.zephyr": "ncs/zephyr",
+    "settingsSync.ignoredSettings": [
+        "-devicetree.zephyr"
+    ],
+    "editor.fontSize": 12,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "editor.inlineSuggest.enabled": true,
+    "cSpell.userWords": [
+        "authn",
+        "Infof",
+        "logrus",
+        "mgmt",
+        "protoc",
+        "Warnf",
+        "Wouter"
+    ],
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.editor.empty.hint": "hidden",
+    "gopls": {
+        "ui.semanticTokens": true
+    },
+    "workbench.editorAssociations": {
+        "{git,gitlens,conflictResolution,vscode-local-history}:/**/*.tc.json": "default",
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.md": "default",
+        "*.markdown": "default"
+    },
+    "vscode-office.editorTheme": "Auto",
+    "go.toolsEnvVars": {
+        "GOTOOLCHAIN": "auto"
+    },
+    "python.defaultInterpreterPath": "/bin/python3",
+    "claudeCode.preferredLocation": "panel"
+
+}

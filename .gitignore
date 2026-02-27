@@ -1,0 +1,8 @@
+# Claude 
+.claude/.credentials.json
+.claude/backups/
+.claude/debug/
+.claude/ide/
+.claude/projects/
+.claude/shell-snapshots/
+.claude/todos/
