@@ -164,3 +164,10 @@ Good naming is non-negotiable. Code is read far more than it's written.
 
 - Say so. "I'm not sure, but my best guess is X" beats confident hallucination
 - If you'd need to see more files to be sure, ask for them
+
+---
+
+## UI
+
+When working on any UI or frontend task, read and follow the guidelines in ~/.claude/ui.md
+
